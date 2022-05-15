@@ -10,4 +10,4 @@ Code for online tutorials and demos. This is generally to try new technologies a
 
 ## Acknowledgements
 
-Please see *sources*.
+Please see *sources* in table.
