@@ -1,6 +1,6 @@
 # Tutorials
 
-Code for online tutorials and demos. This is generally to try new technologies and learn new tools/skills. 
+Code for online tutorials and demos. This is generally to try new technologies and learn new tools. 
 
 ## 
 | **Folder** | **Title** | **Source** | **Skills / Tools** |
