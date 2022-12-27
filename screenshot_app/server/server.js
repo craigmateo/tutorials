@@ -12,10 +12,10 @@ app.use(express.json());
 
 app.post('/screenshot', async (req, res) => {
     // Set path and id
-    const ID = (new Date().setTime().toString(36));
+    const ID = (new Date().getTime().toString(36));
     const loc = "./public/screenshots/" + ID + ".png";
 
-    // Start browers
+    // Start browsers
     const browser = await puppeteer.launch({
         defaultViewport: {
             width: 1920,
